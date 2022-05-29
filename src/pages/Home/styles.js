@@ -17,6 +17,7 @@ export const TitleMain = styled.div`
   width: 100%;
 
   h2 {
+    color: #fff;
     margin: 0;
     font-weight: bold;
   }
