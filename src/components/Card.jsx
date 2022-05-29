@@ -33,6 +33,10 @@ export const CardStyle = styled.div`
     font-size: 2rem;
     font-weight: bold;
   }
+
+  p {
+    font-weight: bold;
+  }
 `;
 
 export default Card;
